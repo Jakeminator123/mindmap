@@ -1,0 +1,1 @@
+streamlit run promethius_mindmap.py         # mind-map-appen  
